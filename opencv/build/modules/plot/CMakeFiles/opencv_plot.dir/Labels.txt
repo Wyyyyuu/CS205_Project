@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_plot
+ Module
+# Source files and their labels
+/mnt/d/资料/C++/opencv/opencv_contrib/modules/plot/include/opencv2/plot.hpp
+ Extra
+ opencv_plot
+ Module
+/mnt/d/资料/C++/opencv/opencv_contrib/modules/plot/src/plot.cpp
+ Extra
+ opencv_plot
+ Module
+/mnt/d/资料/C++/opencv/opencv_contrib/modules/plot/src/precomp.hpp
+ Extra
+ opencv_plot
+ Module
+/mnt/d/资料/C++/opencv/build/cvconfig.h
+/mnt/d/资料/C++/opencv/build/opencv2/opencv_modules.hpp

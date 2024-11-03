@@ -1,0 +1,13 @@
+# Target labels
+ Extra
+ opencv_rapid
+ AccuracyTest
+# Source files and their labels
+/mnt/d/资料/C++/opencv/opencv_contrib/modules/rapid/test/test_main.cpp
+ Extra
+ opencv_rapid
+ AccuracyTest
+/mnt/d/资料/C++/opencv/opencv_contrib/modules/rapid/test/test_precomp.hpp
+ Extra
+ opencv_rapid
+ AccuracyTest

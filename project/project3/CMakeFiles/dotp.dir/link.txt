@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dotp.dir/convolution.c.o -o dotp  /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

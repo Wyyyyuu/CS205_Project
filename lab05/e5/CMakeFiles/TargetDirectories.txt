@@ -1,0 +1,3 @@
+/mnt/d/资料/C++/lab05/e5/CMakeFiles/student.dir
+/mnt/d/资料/C++/lab05/e5/CMakeFiles/edit_cache.dir
+/mnt/d/资料/C++/lab05/e5/CMakeFiles/rebuild_cache.dir

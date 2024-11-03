@@ -1,0 +1,13 @@
+# Target labels
+ Main
+ opencv_imgcodecs
+ PerfTest
+# Source files and their labels
+/mnt/d/资料/C++/opencv/modules/imgcodecs/perf/perf_main.cpp
+ Main
+ opencv_imgcodecs
+ PerfTest
+/mnt/d/资料/C++/opencv/modules/imgcodecs/perf/perf_precomp.hpp
+ Main
+ opencv_imgcodecs
+ PerfTest

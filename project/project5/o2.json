@@ -1,0 +1,175 @@
+{
+  "context": {
+    "date": "2023-05-28T21:52:30+08:00",
+    "host_name": "LAPTOP-AF3F78HF",
+    "executable": "./mul",
+    "num_cpus": 16,
+    "mhz_per_cpu": 1797,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 524288,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 4194304,
+        "num_sharing": 16
+      }
+    ],
+    "load_avg": [0.146484,0.130371,0.157227],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "mine/4",
+      "family_index": 0,
+      "per_family_instance_index": 0,
+      "run_name": "mine/4",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 8533713,
+      "real_time": 8.1850806559787529e-05,
+      "cpu_time": 8.1849776293156326e-05,
+      "time_unit": "ms",
+      "bytes_per_second": 4.8870017502228044e+07
+    },
+    {
+      "name": "mine/16",
+      "family_index": 0,
+      "per_family_instance_index": 1,
+      "run_name": "mine/16",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 232841,
+      "real_time": 2.9377255509194576e-03,
+      "cpu_time": 2.9376965396987653e-03,
+      "time_unit": "ms",
+      "bytes_per_second": 5.4464441046864074e+06
+    },
+    {
+      "name": "mine/32",
+      "family_index": 0,
+      "per_family_instance_index": 2,
+      "run_name": "mine/32",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 32668,
+      "real_time": 2.1475528192761918e-02,
+      "cpu_time": 2.1475581608913916e-02,
+      "time_unit": "ms",
+      "bytes_per_second": 1.4900644174739227e+06
+    },
+    {
+      "name": "mine/64",
+      "family_index": 0,
+      "per_family_instance_index": 3,
+      "run_name": "mine/64",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 4183,
+      "real_time": 1.6810984843441346e-01,
+      "cpu_time": 1.6811056657901025e-01,
+      "time_unit": "ms",
+      "bytes_per_second": 3.8070182798367203e+05
+    },
+    {
+      "name": "mine/128",
+      "family_index": 0,
+      "per_family_instance_index": 4,
+      "run_name": "mine/128",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 504,
+      "real_time": 1.4279483373013049e+00,
+      "cpu_time": 1.4279511904761901e+00,
+      "time_unit": "ms",
+      "bytes_per_second": 8.9638918230331707e+04
+    },
+    {
+      "name": "mine/256",
+      "family_index": 0,
+      "per_family_instance_index": 5,
+      "run_name": "mine/256",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 62,
+      "real_time": 1.0928960790337324e+01,
+      "cpu_time": 1.0928798387096762e+01,
+      "time_unit": "ms",
+      "bytes_per_second": 2.3424350137362762e+04
+    },
+    {
+      "name": "mine/512",
+      "family_index": 0,
+      "per_family_instance_index": 6,
+      "run_name": "mine/512",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 8,
+      "real_time": 9.8343852250081909e+01,
+      "cpu_time": 9.8343112500000046e+01,
+      "time_unit": "ms",
+      "bytes_per_second": 5.2062619026828106e+03
+    },
+    {
+      "name": "mine/800",
+      "family_index": 0,
+      "per_family_instance_index": 7,
+      "run_name": "mine/800",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 2,
+      "real_time": 3.9886985750035819e+02,
+      "cpu_time": 3.9887109999999961e+02,
+      "time_unit": "ms",
+      "bytes_per_second": 2.0056604752763508e+03
+    },
+    {
+      "name": "mine/1024",
+      "family_index": 0,
+      "per_family_instance_index": 8,
+      "run_name": "mine/1024",
+      "run_type": "iteration",
+      "repetitions": 1,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1,
+      "real_time": 8.6174973599918303e+02,
+      "cpu_time": 8.6174179999999990e+02,
+      "time_unit": "ms",
+      "bytes_per_second": 1.1882909706828659e+03
+    }
+  ]
+}
